@@ -1,4 +1,4 @@
-#Speccy:
+# Speccy:
 
 
 es una herramienta diseñada para Windows que realiza un análisis del hardware y sistema operativo del equipo. 
