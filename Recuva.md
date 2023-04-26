@@ -4,5 +4,6 @@ Capaz de restaurar archivos que han sido permanentemente borrados de sistemas op
 marcados por éste como espacio libre.
 Este programa es ideal para ayudar a las Pymes en la recuperación y registro de información.
 
+![Recuva](https://user-images.githubusercontent.com/114906901/234555234-51f844f3-b0ec-4bd0-8535-76ca57d8a269.jpg)
 
-![descarga](https://user-images.githubusercontent.com/114906901/234554949-1956ae68-c6f6-4bfd-af56-552a320ec075.jpg)
+
