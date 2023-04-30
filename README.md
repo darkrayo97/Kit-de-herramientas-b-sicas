@@ -8,3 +8,7 @@ Testeo disco: [CrystalDiskInfo](https://github.com/darkrayo97/Kitdeherramientasb
 
 
 Recuperación de datos: [Recuva](https://github.com/darkrayo97/Kitdeherramientasbasicas/blob/d54a4f6f9d565e339545761bad445da497f330b8/Recuva.md)
+
+Recuperacion de contraseñas: [Password Safe](Password/passwors.md)
+
+Libre: [GIMP](Gimp/gimp.md)
