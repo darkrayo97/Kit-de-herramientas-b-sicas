@@ -10,3 +10,9 @@ Recuperación de datos: [Recuva](https://github.com/darkrayo97/Kitdeherramientas
 Recuperacion de contraseñas: [Password Safe](Password/password.md)
 
 Libre: [GIMP](Gimp/gimp.md)
+
+## Autore 
+- Moisés Moreno Moreno 
+  [GitHub]
+- Larry Reynoso García 
+  [GitHub]
