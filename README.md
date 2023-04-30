@@ -14,8 +14,9 @@ Libre: [GIMP](Gimp/gimp.md)
 ## Autores
 - Moisés Moreno Moreno 
   
-  [GitHub]
+  [GitHub](https://github.com/darkrayo97)
 
 -  Larry Reynoso García 
   
-  [GitHub]
+   [GitHub](https://github.com/LarryWestbrook)
+ 
