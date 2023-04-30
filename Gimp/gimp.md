@@ -5,5 +5,8 @@ GIMP tiene herramientas que se utilizan para el retoque y edición de imágenes,
 
 Los desarrolladores y encargados de mantener GIMP se esfuerzan en mantener y desarrollar una aplicación gráfica de software libre, de alta calidad para la edición y creación de imágenes originales, de fotografías, de íconos, de elementos gráficos tanto de páginas web como de elementos artísticos de interfaz de usuario.
 
+![image](https://user-images.githubusercontent.com/114906861/235372678-28e998ce-440e-4318-8eae-da52da014a27.jpg)
+
+
 - [Enlace de descarga](http://www.gimp.org.es/descargar-gimp.html)
 - [Video explicativo]
