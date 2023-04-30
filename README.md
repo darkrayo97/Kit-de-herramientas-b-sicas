@@ -11,8 +11,11 @@ Recuperacion de contraseñas: [Password Safe](Password/password.md)
 
 Libre: [GIMP](Gimp/gimp.md)
 
-## Autore 
+## Autores
 - Moisés Moreno Moreno 
+  
   [GitHub]
-- Larry Reynoso García 
+
+-  Larry Reynoso García 
+  
   [GitHub]
