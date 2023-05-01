@@ -9,4 +9,4 @@ Los desarrolladores y encargados de mantener GIMP se esfuerzan en mantener y des
 
 
 - [Enlace de descarga](http://www.gimp.org.es/descargar-gimp.html)
-- [Video explicativo]
+- [Video explicativo](https://youtu.be/_-ZHVOmrmUU)
