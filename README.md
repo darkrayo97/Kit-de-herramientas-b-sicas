@@ -20,3 +20,6 @@ Libre: [GIMP](Gimp/gimp.md)
   
    [GitHub](https://github.com/LarryWestbrook)
  
+## Licencias
+
+![image](https://user-images.githubusercontent.com/114906861/214280755-73c45fbd-cb4a-4492-b969-807a3cc50bd1.PNG)
